@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.capacitor_vue",
+  "appName": "capacitor_vue",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "url" : "http://192.168.1.67:5173/",
+    "cleartext" : true
+  }
+}
